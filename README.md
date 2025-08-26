@@ -1,2 +1,2 @@
 # CursoPY-DSA
-Py para analise de dados
+Curso da Data Science Academy de Python para Análise de Dados
