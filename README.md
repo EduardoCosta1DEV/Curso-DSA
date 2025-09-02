@@ -1,2 +1,2 @@
 # CursoPY-DSA
-Curso da Data Science Academy de Python para Análise de Dados
+Curso da Data Science Academy de Power BI para Business Intelligence e Data Science
